@@ -24,7 +24,7 @@ use winrt::*;
 
 import!(
     dependencies
-        "os"
+        os
     modules
         "windows.data.xml.dom"
         "windows.foundation"
